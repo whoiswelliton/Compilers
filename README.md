@@ -1,10 +1,12 @@
-<<<<<<< HEAD
-**#Project and Implementation of a Compiler**
+#Project and Implementation of a Compiler
 
-Topics:
-**1 - Lexical Analysis**
-**2 - Syntax Analisys**
-**3 - Desicion Three (Physical Drawing)**
-=======
-# Compilers
->>>>>>> f6921e7cf709c98d1304ca937d9ee81a6aac785a
+>### 1. All the codes were developed at UTFPR-PB during the class: 
+- **CO28CP - Compiladores**
+
+>### 2. Subjects:
+**- Lexical Analysis**
+**- Syntax Analisys**
+**- Desicion Three (Physical Drawing)**
+---
+>### 3. Programming Languages:
+-**C**
