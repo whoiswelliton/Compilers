@@ -5,7 +5,7 @@
 ---
 >### 2. Subjects:
 - **Lexical Analysis**
-- **Syntax Analisys**
+- **Syntax Analysis**
 - **Semantic Analysis**
 ---
 >### 3. Projects:
