@@ -6,7 +6,7 @@
 >### 2. Subjects:
 - **Lexical Analysis**
 - **Syntax Analisys**
-- **Desicion Three (Physical Drawing)**
+- **Semantic Analysis**
 ---
 >### 3. Projects:
 - **Project and Implementation of a Compiler**
