@@ -10,7 +10,7 @@
 ---
 >### 3. Projects:
 - **Project and Implementation of a Compiler**
-    - Lexical & Syntax Analisys 
+    - Lexical & Syntax Analysis 
 ---
 >### 4. Programming Languages:
 - **C**
